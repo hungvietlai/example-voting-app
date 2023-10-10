@@ -88,7 +88,7 @@ kubectl get nodes
 
 ```bash
 git clone https://github.com/hungvietlai/example-voting-app.git
-cd cd k8s-yaml-files/
+cd k8s-yaml-files/
 for file in *.yaml; do kubectl create -f $file; done
 ```
 #### 3.1 Check deployments, services:
