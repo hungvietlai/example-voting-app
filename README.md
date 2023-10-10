@@ -120,7 +120,7 @@ eksctl delete cluster --name my-voting-app-cluster
 
 ## Credit
 
-- TThis example is adapted from the official Kubernetes documentation. Learn more [here](https://kubernetes-bootcamp.wikitops.io/exercise-app/voting-app)
+- This example is adapted from the official Kubernetes documentation. Learn more [here](https://kubernetes-bootcamp.wikitops.io/exercise-app/voting-app)
 
 ## Licensing 
 
