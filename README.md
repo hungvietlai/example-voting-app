@@ -1,1 +1,1 @@
-# example-voting-app
+# Example-voting-app
